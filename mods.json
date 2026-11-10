@@ -5,6 +5,18 @@
       "file": "cosmic-visuals-plus-1.0.2+mc1.21.11.jar",
       "sha256": "c3cc4049ac0a0739a61543318f26ab4c3bb5637b66062ace7432bb6b6f3d7dd0",
       "sig": "v6an/hT3RuqQK/ESYZEVC3DsbLmQwdkrljZ89RRfQsfhabjAMjF1SLM7k9Qb3kEqfLpxRjKJWAGoRCyoCV0EAg=="
+    },
+    "1.21.4": {
+      "version": "1.0.1+mc1.21.4",
+      "file": "cosmic-visuals-plus-1.0.1+mc1.21.4.jar",
+      "sha256": "ef2f7296a4af6ed79c92570e024f69ea34c81698cd33abfecfd63888f7361e87",
+      "sig": "1UvBQBEBi67090jR88NVNw7egK959mUlwfr92Bthcxhvtnym9/XPqDKsOCLEoTID/qmJsUTTdSWiXhx9NtSmCA=="
+    },
+    "1.21.1": {
+      "version": "1.0.1+mc1.21.1",
+      "file": "cosmic-visuals-plus-1.0.1+mc1.21.1.jar",
+      "sha256": "be5e173969984e6dfda6d2c7b02b78187b54babb3619c959fabc38bf99286b5c",
+      "sig": "xwmowC2VtjWD1IqjNt+vuG+H085daoaxYEH50CLRKev/OZ+0nINzAkHs9Etg6PN3OVe1UzmYf327UPj1YTpDBg=="
     }
   }
 }
