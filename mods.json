@@ -1,0 +1,10 @@
+{
+  "versions": {
+    "1.21.11": {
+      "version": "1.0.0+mc1.21.11",
+      "file": "cosmic-visuals-plus-1.0.0+mc1.21.11.jar",
+      "sha256": "c1352d270578a70000262bae91ffecebf61f5c10c2257eb7ab5c296c417ee70d",
+      "sig": "v9VIZhibsiCmjlPQAeRktlU1xbu+Wm5AS6usIe3tO9rW6U74FhEyeBMLBPgDt8dlajzzIR7n2HB6dhsfrw6MAg=="
+    }
+  }
+}
