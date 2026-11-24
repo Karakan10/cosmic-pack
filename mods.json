@@ -1,22 +1,22 @@
 {
   "versions": {
     "1.21.11": {
-      "version": "1.3.4+mc1.21.11",
-      "file": "cosmic-visuals-plus-1.3.4+mc1.21.11.jar",
-      "sha256": "89fba2198df7e118de7a09eb546567022626caca47fa772c13eba9cbee6eaa23",
-      "sig": "Qw7XQHgvHdEne+1cttTtVLEnRdt4yUXqHZyaVXcKLNI7JkjjRz6trpdKEhANfyqrctYxi5Ee05lnULFh1vULDA=="
+      "version": "1.4.0+mc1.21.11",
+      "file": "cosmic-visuals-plus-1.4.0+mc1.21.11.jar",
+      "sha256": "b0a9b2214f9d609f981249480babcf701eb3a42660125521d35bd7c8675ffaf7",
+      "sig": "j4n4Hs2Yyv1US2lpZrSKnQ+QVBS/z8RL01IgRN6YR6a2unZFqsKvSzATTTMfM83vyUrV36ldZkzx7AzP3fOWDw=="
     },
     "1.21.4": {
-      "version": "1.3.4+mc1.21.4",
-      "file": "cosmic-visuals-plus-1.3.4+mc1.21.4.jar",
-      "sha256": "6aaceaf6d965b899d08d66606f77465da3050ba64ed728fa596da16fdfca477a",
-      "sig": "AM6+5OnRTGZ7hH/ZrJiMYJufnixsUKujB/lPmYdJwNeo9IMx3e0PKMwMe+aW9V3gsy6EjkXkBfswnRUUXdVCBw=="
+      "version": "1.4.0+mc1.21.4",
+      "file": "cosmic-visuals-plus-1.4.0+mc1.21.4.jar",
+      "sha256": "a8a1710a574a25c8a67c565b85dd132ac6d3f6df3403f2cbcf0ce511650c60b0",
+      "sig": "aZCBFFJotJ0ZQ7JLn9chfCMwqJF4LAUiGQUv0Kwxz5NcTprNJmQad1iBcJ4Nt6cCOmVtBPMhW9v4cWJj28u7Dg=="
     },
     "1.21.1": {
-      "version": "1.3.4+mc1.21.1",
-      "file": "cosmic-visuals-plus-1.3.4+mc1.21.1.jar",
-      "sha256": "aac764d16fc7fedb737d926705b182f12e03e78f9ea0be49fc57e92b0671a2ac",
-      "sig": "oYa+Yt/DsmGJ8BAfHmdJ8FyqXERYIRz/3KI2A0drPj1Gy0WUQUkjPaddXm8o3G1quUESsyyZm5oXIwsdEfCPCQ=="
+      "version": "1.4.0+mc1.21.1",
+      "file": "cosmic-visuals-plus-1.4.0+mc1.21.1.jar",
+      "sha256": "32697fe37e8933fe9a848621a371894b6f5c7dc6623c7fcd0e4a34b005c6dd5d",
+      "sig": "+AyKL5r35iA2wfzYS7KscjPkMGgyu6AJ8Mw5Hb7ZQ7LOrY8JkVFsCy+cRp7ybvZd6Mn5GJpwJq3MWZDG1wq2AA=="
     }
   }
 }
