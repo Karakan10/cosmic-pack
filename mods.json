@@ -13,10 +13,10 @@
       "sig": "aZCBFFJotJ0ZQ7JLn9chfCMwqJF4LAUiGQUv0Kwxz5NcTprNJmQad1iBcJ4Nt6cCOmVtBPMhW9v4cWJj28u7Dg=="
     },
     "1.21.1": {
-      "version": "1.4.0+mc1.21.1",
-      "file": "cosmic-visuals-plus-1.4.0+mc1.21.1.jar",
-      "sha256": "32697fe37e8933fe9a848621a371894b6f5c7dc6623c7fcd0e4a34b005c6dd5d",
-      "sig": "+AyKL5r35iA2wfzYS7KscjPkMGgyu6AJ8Mw5Hb7ZQ7LOrY8JkVFsCy+cRp7ybvZd6Mn5GJpwJq3MWZDG1wq2AA=="
+      "version": "1.4.1+mc1.21.1",
+      "file": "cosmic-visuals-plus-1.4.1+mc1.21.1.jar",
+      "sha256": "3f2ec56c5139036b28e2835b530b3f7b98889e6f6569f6ab5e893019e1c6aeb9",
+      "sig": "nty3ls+fptVcIIcfjjoFoRhQlKf2OJDk/3ALFpwKHkhppYJ13SJZUGaeYBljr9r2XhvSV6eGOQQTjQamCCQWDw=="
     }
   }
 }
